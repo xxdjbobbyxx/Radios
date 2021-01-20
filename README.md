@@ -15,5 +15,4 @@ If you would like to <strong>publish</strong> your radio, please feel free to op
 - Your radio must have a logo that you consent for us to use.
 - Your radio must have a direct stream link with HTTPs (E.G. https://stream.example.com/radio.mp3)
 - You must have basic knowledge of JSON
-
 ###### * RadioPeeker staff may give exceptions to this
