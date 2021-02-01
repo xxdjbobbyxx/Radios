@@ -1,0 +1,15 @@
+[
+  {
+    "relief":
+      { 
+        "name": "Relief",
+        "logo": "https://bobbyd.tech/Relief%20Radio.png",
+        "website": "https://itsrelief.live",
+        "description": "Bringing relief to your day, This is Relief",
+        "color": "#67FFF0",
+        "listen_url": "https://stream.itsrelief.live",
+        "api_url": "EXTERNAL",
+        "ext_api_identifier": "relief"
+      }
+  }
+]
